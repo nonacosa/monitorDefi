@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="14f11b44-ee34-443e-bafb-e31e7a09699f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GroovyConsoleState">
+    <option name="list">
+      <list>
+        <Entry>
+          <option name="moduleName" value="book" />
+          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console_20.groovy" />
+        </Entry>
+        <Entry>
+          <option name="moduleName" value="book" />
+          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console_21.groovy" />
+        </Entry>
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.6.3-bin/1iopthnavndlasol9gbrbg6bf2/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gHRsf4HQWuMVTiwds5tUeKFT4n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/templates" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="IntelliLang.Configuration" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/static/assets/js" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static/assets/css" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/online/book/fetch" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/online/book/fetch/7se" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.online.book.fetch" />
+      <recent name="com.online.book.repository" />
+      <recent name="com.online.book.model" />
+      <recent name="com.online.book.rest.view" />
+      <recent name="com.online.book.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/online/book/fetch" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LinkBook">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DownLoadFrom7seLieBian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.online.book.fetch.DownLoadFrom7seLieBian" />
+      <module name="book" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.online.book.fetch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DownLoadUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.online.book.util.DownLoadUtil" />
+      <module name="book" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.online.book.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IpProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.online.book.util.IpProxy" />
+      <module name="book" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.online.book.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JwtUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.online.book.util.JwtUtil" />
+      <module name="book" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.online.book.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.online.book.fetch.LinkBook" />
+      <module name="book" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.online.book.fetch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="book" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.online.book.BookApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LinkBook" />
+        <item itemvalue="Application.JwtUtil" />
+        <item itemvalue="Application.DownLoadFrom7seLieBian" />
+        <item itemvalue="Application.DownLoadUtil" />
+        <item itemvalue="Application.IpProxy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14f11b44-ee34-443e-bafb-e31e7a09699f" name="Default Changelist" comment="" />
+      <created>1597768901089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597768901089</updated>
+      <workItem from="1597768902257" duration="553000" />
+      <workItem from="1597769742305" duration="440000" />
+      <workItem from="1597770400479" duration="274000" />
+      <workItem from="1597770949706" duration="445000" />
+      <workItem from="1597771706248" duration="22000" />
+      <workItem from="1597772493129" duration="2022000" />
+      <workItem from="1597807880496" duration="4237000" />
+      <workItem from="1597812137765" duration="15701000" />
+      <workItem from="1597846528373" duration="3182000" />
+      <workItem from="1597849726904" duration="18457000" />
+      <workItem from="1597901069674" duration="33715000" />
+      <workItem from="1598003243598" duration="2950000" />
+      <workItem from="1598253759888" duration="2252000" />
+      <workItem from="1598367555947" duration="694000" />
+      <workItem from="1598712241616" duration="10533000" />
+      <workItem from="1598868393494" duration="8023000" />
+      <workItem from="1598938471195" duration="1195000" />
+      <workItem from="1599374959951" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="677" y="255" key="#Project_Structure" timestamp="1597822788166">
+      <screen x="0" y="23" width="2560" height="1344" />
+    </state>
+    <state x="677" y="255" key="#Project_Structure/0.23.2560.1344@0.23.2560.1344" timestamp="1597822788166" />
+    <state x="1096" y="401" key="#com.intellij.ide.util.MemberChooser" timestamp="1598112747707">
+      <screen x="0" y="23" width="2560" height="1348" />
+    </state>
+    <state x="1096" y="401" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1348@0.23.2560.1348" timestamp="1598112747707" />
+    <state x="892" y="374" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1598253764404">
+      <screen x="0" y="23" width="2560" height="1344" />
+    </state>
+    <state x="892" y="374" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.2560.1344@0.23.2560.1344" timestamp="1598253764404" />
+    <state x="891" y="592" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1597997246632">
+      <screen x="0" y="23" width="2560" height="1344" />
+    </state>
+    <state x="891" y="592" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.2560.1344@0.23.2560.1344" timestamp="1597997246632" />
+    <state x="1048" y="527" width="446" height="303" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1597997284568">
+      <screen x="0" y="23" width="2560" height="1344" />
+    </state>
+    <state x="1048" y="527" width="446" height="303" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.2560.1344@0.23.2560.1344" timestamp="1597997284568" />
+    <state x="438" y="781" key="#org.intellij.plugins.intelliLang.inject.config.ui.BaseInjectionDialog" timestamp="1597858699257">
+      <screen x="0" y="23" width="2560" height="1348" />
+    </state>
+    <state x="438" y="781" key="#org.intellij.plugins.intelliLang.inject.config.ui.BaseInjectionDialog/0.23.2560.1348@0.23.2560.1348" timestamp="1597858699257" />
+    <state x="739" y="381" width="1319" height="733" key="#xdebugger.evaluate" timestamp="1598894513808">
+      <screen x="0" y="23" width="2560" height="1344" />
+    </state>
+    <state x="739" y="381" width="1319" height="733" key="#xdebugger.evaluate/0.23.2560.1344@0.23.2560.1344" timestamp="1598894513808" />
+    <state x="1512" y="568" width="969" height="662" key="#xdebugger.evaluate/0.23.2560.1348@0.23.2560.1348" timestamp="1598110692373" />
+    <state width="1659" height="1152" key="DebuggerActiveHint" timestamp="1598890970207">
+      <screen x="0" y="23" width="2560" height="1344" />
+    </state>
+    <state width="1659" height="1152" key="DebuggerActiveHint/0.23.2560.1344@0.23.2560.1344" timestamp="1598890970207" />
+    <state width="1089" height="623" key="DebuggerActiveHint/0.23.2560.1348@0.23.2560.1348" timestamp="1598723214491" />
+    <state width="2097" height="205" key="GridCell.Tab.0.bottom" timestamp="1598938452161">
+      <screen x="0" y="23" width="2560" height="1344" />
+    </state>
+    <state width="2097" height="205" key="GridCell.Tab.0.bottom/0.23.2560.1344@0.23.2560.1344" timestamp="1598938452161" />
+    <state width="2506" height="472" key="GridCell.Tab.0.bottom/0.23.2560.1348@0.23.2560.1348" timestamp="1598778764372" />
+    <state width="2506" height="472" key="GridCell.Tab.0.bottom/0.23.2560.1350@0.23.2560.1350" timestamp="1598547832645" />
+    <state width="2097" height="205" key="GridCell.Tab.0.center" timestamp="1598938452161">
+      <screen x="0" y="23" width="2560" height="1344" />
+    </state>
+    <state width="2097" height="205" key="GridCell.Tab.0.center/0.23.2560.1344@0.23.2560.1344" timestamp="1598938452161" />
+    <state width="2506" height="472" key="GridCell.Tab.0.center/0.23.2560.1348@0.23.2560.1348" timestamp="1598778764371" />
+    <state width="2506" height="472" key="GridCell.Tab.0.center/0.23.2560.1350@0.23.2560.1350" timestamp="1598547832645" />
+    <state width="2097" height="205" key="GridCell.Tab.0.left" timestamp="1598938452161">
+      <screen x="0" y="23" width="2560" height="1344" />
+    </state>
+    <state width="2097" height="205" key="GridCell.Tab.0.left/0.23.2560.1344@0.23.2560.1344" timestamp="1598938452161" />
+    <state width="2506" height="472" key="GridCell.Tab.0.left/0.23.2560.1348@0.23.2560.1348" timestamp="1598778764371" />
+    <state width="2506" height="472" key="GridCell.Tab.0.left/0.23.2560.1350@0.23.2560.1350" timestamp="1598547832645" />
+    <state width="2097" height="205" key="GridCell.Tab.0.right" timestamp="1598938452161">
+      <screen x="0" y="23" width="2560" height="1344" />
+    </state>
+    <state width="2097" height="205" key="GridCell.Tab.0.right/0.23.2560.1344@0.23.2560.1344" timestamp="1598938452161" />
+    <state width="2506" height="472" key="GridCell.Tab.0.right/0.23.2560.1348@0.23.2560.1348" timestamp="1598778764371" />
+    <state width="2506" height="472" key="GridCell.Tab.0.right/0.23.2560.1350@0.23.2560.1350" timestamp="1598547832645" />
+    <state width="2097" height="205" key="GridCell.Tab.1.bottom" timestamp="1598938452162">
+      <screen x="0" y="23" width="2560" height="1344" />
+    </state>
+    <state width="2097" height="205" key="GridCell.Tab.1.bottom/0.23.2560.1344@0.23.2560.1344" timestamp="1598938452162" />
+    <state width="2506" height="472" key="GridCell.Tab.1.bottom/0.23.2560.1348@0.23.2560.1348" timestamp="1598778764288" />
+    <state width="2506" height="472" key="GridCell.Tab.1.bottom/0.23.2560.1350@0.23.2560.1350" timestamp="1598547832647" />
+    <state width="2097" height="205" key="GridCell.Tab.1.center" timestamp="1598938452162">
+      <screen x="0" y="23" width="2560" height="1344" />
+    </state>
+    <state width="2097" height="205" key="GridCell.Tab.1.center/0.23.2560.1344@0.23.2560.1344" timestamp="1598938452162" />
+    <state width="2506" height="472" key="GridCell.Tab.1.center/0.23.2560.1348@0.23.2560.1348" timestamp="1598778764287" />
+    <state width="2506" height="472" key="GridCell.Tab.1.center/0.23.2560.1350@0.23.2560.1350" timestamp="1598547832646" />
+    <state width="2097" height="205" key="GridCell.Tab.1.left" timestamp="1598938452162">
+      <screen x="0" y="23" width="2560" height="1344" />
+    </state>
+    <state width="2097" height="205" key="GridCell.Tab.1.left/0.23.2560.1344@0.23.2560.1344" timestamp="1598938452162" />
+    <state width="2506" height="472" key="GridCell.Tab.1.left/0.23.2560.1348@0.23.2560.1348" timestamp="1598778764287" />
+    <state width="2506" height="472" key="GridCell.Tab.1.left/0.23.2560.1350@0.23.2560.1350" timestamp="1598547832646" />
+    <state width="2097" height="205" key="GridCell.Tab.1.right" timestamp="1598938452162">
+      <screen x="0" y="23" width="2560" height="1344" />
+    </state>
+    <state width="2097" height="205" key="GridCell.Tab.1.right/0.23.2560.1344@0.23.2560.1344" timestamp="1598938452162" />
+    <state width="2506" height="472" key="GridCell.Tab.1.right/0.23.2560.1348@0.23.2560.1348" timestamp="1598778764287" />
+    <state width="2506" height="472" key="GridCell.Tab.1.right/0.23.2560.1350@0.23.2560.1350" timestamp="1598547832646" />
+    <state width="2506" height="442" key="GridCell.Tab.2.bottom" timestamp="1598036337276">
+      <screen x="0" y="23" width="2560" height="1348" />
+    </state>
+    <state width="2097" height="449" key="GridCell.Tab.2.bottom/0.23.2560.1344@0.23.2560.1344" timestamp="1598001979229" />
+    <state width="2506" height="442" key="GridCell.Tab.2.bottom/0.23.2560.1348@0.23.2560.1348" timestamp="1598036337276" />
+    <state width="2506" height="442" key="GridCell.Tab.2.center" timestamp="1598036337276">
+      <screen x="0" y="23" width="2560" height="1348" />
+    </state>
+    <state width="2097" height="449" key="GridCell.Tab.2.center/0.23.2560.1344@0.23.2560.1344" timestamp="1598001979228" />
+    <state width="2506" height="442" key="GridCell.Tab.2.center/0.23.2560.1348@0.23.2560.1348" timestamp="1598036337276" />
+    <state width="2506" height="442" key="GridCell.Tab.2.left" timestamp="1598036337276">
+      <screen x="0" y="23" width="2560" height="1348" />
+    </state>
+    <state width="2097" height="449" key="GridCell.Tab.2.left/0.23.2560.1344@0.23.2560.1344" timestamp="1598001979227" />
+    <state width="2506" height="442" key="GridCell.Tab.2.left/0.23.2560.1348@0.23.2560.1348" timestamp="1598036337276" />
+    <state width="2506" height="442" key="GridCell.Tab.2.right" timestamp="1598036337276">
+      <screen x="0" y="23" width="2560" height="1348" />
+    </state>
+    <state width="2097" height="449" key="GridCell.Tab.2.right/0.23.2560.1344@0.23.2560.1344" timestamp="1598001979229" />
+    <state width="2506" height="442" key="GridCell.Tab.2.right/0.23.2560.1348@0.23.2560.1348" timestamp="1598036337276" />
+    <state x="812" y="364" key="Maven.ArtifactSearchDialog" timestamp="1598117612570">
+      <screen x="0" y="23" width="2560" height="1348" />
+    </state>
+    <state x="812" y="363" key="Maven.ArtifactSearchDialog/0.23.2560.1344@0.23.2560.1344" timestamp="1597912437547" />
+    <state x="812" y="364" key="Maven.ArtifactSearchDialog/0.23.2560.1348@0.23.2560.1348" timestamp="1598117612570" />
+    <state x="768" y="277" key="SettingsEditor" timestamp="1598003162072">
+      <screen x="0" y="23" width="2560" height="1344" />
+    </state>
+    <state x="768" y="277" key="SettingsEditor/0.23.2560.1344@0.23.2560.1344" timestamp="1598003162072" />
+    <state x="647" y="649" key="SettingsEditor/0.23.2560.1348@0.23.2560.1348" timestamp="1597858758136" />
+    <state width="1056" height="672" key="XDebugger.FullValuePopup" timestamp="1598889505725">
+      <screen x="0" y="23" width="2560" height="1344" />
+    </state>
+    <state width="1056" height="672" key="XDebugger.FullValuePopup/0.23.2560.1344@0.23.2560.1344" timestamp="1598889505725" />
+    <state width="1056" height="674" key="XDebugger.FullValuePopup/0.23.2560.1348@0.23.2560.1348" timestamp="1598112635413" />
+    <state x="296" y="123" width="1951" height="1107" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1598280735008">
+      <screen x="0" y="23" width="2560" height="1348" />
+    </state>
+    <state x="296" y="123" width="1951" height="1103" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.2560.1344@0.23.2560.1344" timestamp="1597912772653" />
+    <state x="296" y="123" width="1951" height="1107" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.2560.1348@0.23.2560.1348" timestamp="1598280735008" />
+    <state x="982" y="347" width="1311" height="735" key="find.popup" timestamp="1598033921548">
+      <screen x="0" y="23" width="2560" height="1348" />
+    </state>
+    <state x="982" y="346" width="1311" height="732" key="find.popup/0.23.2560.1344@0.23.2560.1344" timestamp="1597989555137" />
+    <state x="982" y="347" width="1311" height="735" key="find.popup/0.23.2560.1348@0.23.2560.1348" timestamp="1598033921548" />
+    <state x="647" y="369" key="new project wizard" timestamp="1597808815272">
+      <screen x="0" y="23" width="2560" height="1344" />
+    </state>
+    <state x="647" y="369" key="new project wizard/0.23.2560.1344@0.23.2560.1344" timestamp="1597808815272" />
+    <state x="922" y="365" width="670" height="677" key="search.everywhere.popup" timestamp="1598891611773">
+      <screen x="0" y="23" width="2560" height="1344" />
+    </state>
+    <state x="922" y="365" width="670" height="677" key="search.everywhere.popup/0.23.2560.1344@0.23.2560.1344" timestamp="1598891611773" />
+    <state x="922" y="366" width="670" height="680" key="search.everywhere.popup/0.23.2560.1348@0.23.2560.1348" timestamp="1598282558146" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/online/book/rest/UserRest.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/online/book/fetch/GetNetPopularBook.java</url>
+          <line>128</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/online/book/fetch/GetNetPopularBook.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/online/book/spring/interceptor/JwtInterceptor.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/online/book/fetch/GetNetPopularBookFromHead.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/online/book/fetch/DownLoadFrom7se.java</url>
+          <line>112</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="book.getEpub()!=null &amp;&amp; book.getEpub().contains(&quot;7se&quot;)" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/main/java/com/online/book/fetch/DownLoadFrom7se.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/online/book/fetch/GetNetPopularBookLieBianUrl.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/online/book/util/DownLoadUtil.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/online/book/fetch/LinkBook.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/online/book/fetch/LinkBook.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.util.concurrent.locks.ReentrantLock" memberName="sync" />
+        <PinnedItemInfo parentTag="java.util.concurrent.ThreadPoolExecutor" memberName="termination" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
